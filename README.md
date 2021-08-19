@@ -1,4 +1,4 @@
-# **DIO DESAFIO** Análise de dados com Python 🐍 e Pandas 🐼
+# DIO DESAFIO Análise de dados com Python 🐍 e Pandas 🐼
 Desafio de análise de dados utilizando Python e Pandas na DIO
 
 ## Documentação das bibliotecas
